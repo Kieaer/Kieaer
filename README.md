@@ -1,4 +1,5 @@
-## 안녕하세요!
+![](https://raw.githubusercontent.com/kieaer/status/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kieaer/status/master/generated/languages.svg#gh-dark-mode-only)
 
 ### 저는 여기서 무엇을 하냐면...
 
@@ -32,11 +33,7 @@ Unity는 2022.3 까지.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kieaer)](https://github.com/kieaer/github-profile-trophy)
 
-### 아무튼 신기한 사이트
-
-[Wrapped.run](https://kieaer.wrapped.run/)
-![wrapped_Kieaer](https://github.com/Kieaer/Kieaer/assets/44261958/84b4b157-d508-49f0-83bc-963c6f3d56c6)
-
-### 이 저장소의 코드 비율
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kieaer" />
+<details>
+  <summary>이 저장소의 코드 비율</summary> 
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=kieaer" />
+</details>
