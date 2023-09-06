@@ -1,5 +1,5 @@
-![](https://raw.githubusercontent.com/kieaer/status/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kieaer/status/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kieaer/status/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/kieaer/status/master/generated/languages.svg)
 
 ### 저는 여기서 무엇을 하냐면...
 
