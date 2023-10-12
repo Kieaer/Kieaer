@@ -11,8 +11,7 @@
 
 <img src="https://skillicons.dev/icons?i=java,kotlin,css,html,jquery,php,c,cpp,rust,md,regex" />
 
-이렇게 많은걸 아는 이유는 오직 Essentials 플러그인을 개발하는데 필요하기 때문<br>
-내 서버에서 내가 게임하는데 다른 사람이 와서 망치는걸 그냥 보고 있을 수 없음 ㅋㅋ
+이렇게 많은걸 아는 이유는 오직 Essentials 플러그인을 개발하는데 필요하기 때문
 
 ### 사용 가능한 코딩 관련 프로그램은...
 
